@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Oppenheimer",
+    "movieId": "872585",
+    "image": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Taxi 5",
+    "movieId": "434355",
+    "image": "/beMffZ3wYjzGA5641inwzw1X2AI.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "movieId": "155",
+    "image": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Downfall",
+    "movieId": "613",
+    "image": "/xgAEfHByamMdRCA31oERQrsiutF.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Soul",
+    "movieId": "872585",
+    "image": "/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg"
+  }
+]
